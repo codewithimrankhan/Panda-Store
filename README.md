@@ -1,1 +1,1 @@
-# Panda-Store
+# Panda Store
